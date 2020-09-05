@@ -1,7 +1,7 @@
 # password_manager
 
 ## Getting Started
-- Installation Guide
+- Installation Guide<br>
 You can install Password Manager to your local machine.
 ### Yarn
 yarn install
